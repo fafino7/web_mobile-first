@@ -28,7 +28,7 @@
 .footer__enlace {
     display: inline-block;
 
-    margin: 0 .5rem .7rem;
+    margin: .5rem .7rem;
 }
 
 @media screen and (min-width: 1024px) {
